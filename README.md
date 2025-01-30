@@ -86,12 +86,6 @@ Esta aplicación es ideal para realizar sorteos de "Amigo Secreto" de forma ráp
 
 ---
 
-## 📜 Licencia
-
-Este proyecto se encuentra bajo la licencia MIT. Puedes consultar más detalles en el archivo `LICENSE`.
-
----
-
 
 ## 📩 Contacto
 
